@@ -1,0 +1,18 @@
+|name|surprisal (think entropy)|friendliness|
+|:---:|---:|---:|
+|Chris|16.9|5.42|
+|Mystery Person|13.1|5.82|
+|David Holz|14.0|6.93|
+|Raffi Hotter|6.58|6.99|
+|Noah|13.0|6.94|
+|Dmitri Brereton|15.1|6.44|
+|Dhruvik Parikh|6.22|6.92|
+|Harshu|12.4|6.69|
+|Steve|14.6|5.36|
+|vincent|6.84|6.94|
+|Marley Xiong|6.22|6.92|
+|Tiago|15.9|5.24|
+|Liam Hinzman|9.04|6.67|
+|Athena|8.33|6.96|
+|Matthew|8.07|6.63|
+|Jonathan|11.6|6.5|
